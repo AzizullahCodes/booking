@@ -1,0 +1,85 @@
+/* header section */
+.container-2{background: #006ce4 !important;
+height: 400px;}
+.cusotm-collapse {display: flex;
+justify-content: flex-end;}
+/* navbar-brand */
+.custom-brand{font-size: 40px !important;
+    color:white !important;
+font-weight: 700;}
+/* custom-link */
+.custom-link{font-size: 18px !important;
+font-weight: 800 !important;
+color:white !important;}
+.navbar-nav{display: flex;
+    gap:17px !important;}
+    /* nav-img */
+    #img-nav{width: 30px;
+    border-radius: 50%;}
+    /* custom-navbar-btn */
+    .custom-btn{background-color: white !important;
+    color:#006ce4 !important;
+font-weight: bold !important;}
+/* font awesome */
+.fa-solid{font-size: 25px;
+font-weight: bold;}
+/* custom row */
+.custom-row{margin-top: 20px !important;
+}
+.second-nav-row-ul li{list-style: none !important;}
+.second-nav-row-ul{display: flex;
+gap:30px;};
+
+ .box a{text-decoration: none;}
+.second-nav-row-ul li{list-style-type: none;}
+
+.second-icon{color:white;}
+#anchor{color:white;
+text-decoration: none;}
+
+@media(max-width: 576px){.second-nav-row-ul{flex-direction: column;}}
+/* third section */
+.row-3{margin-top:40px !important;}
+.row-3 h1{font-size: 48px;
+font-weight: bold;
+color:white;}
+
+.row-3 p{font-size: 24px;
+color:white;}
+
+/* fourth section */
+.fourth-row{margin-top:-20px !important;}
+.fourth-row .ul-fourth-section{display: flex;
+    justify-content: center;
+}
+.input-div{border:2px solid #ffb700;
+padding:15px;
+background-color: white;
+}
+.fourth-row .ul-fourth-section a{text-decoration: none;}
+button{background:transparent;
+border:none;
+color: white;}
+.input-div-2{background-color:blue;
+}
+
+@media(max-width:600px){.fourth-row .ul-fourth-section{flex-direction: column;
+margin-top: 40px;}}
+
+/* fifth section */
+.row-fifth-section{margin-top: 40px !important;}
+
+.card {
+     
+      border-radius: 10px;
+      overflow: hidden;
+      background-color: #ffffff;
+    }
+    .card-img {
+      max-width: 100px;
+      height: auto;
+    }
+    .btn-sm-custom {
+      padding: 4px 12px;
+      font-size: 14px;
+    }
